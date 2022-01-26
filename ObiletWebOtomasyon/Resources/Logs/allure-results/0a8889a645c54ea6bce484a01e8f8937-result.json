@@ -1,0 +1,95 @@
+{
+  "uuid": "ac3ebfef-287a-42b2-b259-73365913bad9-tr-0-1001",
+  "historyId": "ObiletWebOtomasyon.TestSuites.Seferler.OtobusSeferleri.SeferListelemeHizliFiltrelerTestCases.HizliFiltrelerMenusu()",
+  "fullName": "ObiletWebOtomasyon.TestSuites.Seferler.OtobusSeferleri.SeferListelemeHizliFiltrelerTestCases.HizliFiltrelerMenusu()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "LAPTOP-4150R4M5"
+    },
+    {
+      "name": "testClass",
+      "value": "ObiletWebOtomasyon.TestSuites.Seferler.OtobusSeferleri.SeferListelemeHizliFiltrelerTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "HizliFiltrelerMenusu"
+    },
+    {
+      "name": "package",
+      "value": "ObiletWebOtomasyon.TestSuites.Seferler.OtobusSeferleri.SeferListelemeHizliFiltrelerTestCases"
+    },
+    {
+      "name": "tag",
+      "value": "SeleniumTestProject"
+    },
+    {
+      "name": "epic",
+      "value": "AllureEpic"
+    },
+    {
+      "name": "feature",
+      "value": "APITests"
+    },
+    {
+      "name": "parentSuite",
+      "value": "AllureParentSuite"
+    },
+    {
+      "name": "suite",
+      "value": "AllureSuite"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "Get"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "HizliFiltrelerMenusu()",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "HizliFiltrelerMenusu()",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "10bdfe24e6544d3c9ac0aa1d6e492d68-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1606746223327,
+      "stop": 1606746280771
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1606746223326,
+  "stop": 1606746280776
+}

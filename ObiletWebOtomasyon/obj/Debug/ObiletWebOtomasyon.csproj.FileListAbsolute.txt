@@ -1,0 +1,222 @@
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.api.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.core.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll.config
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.pdb
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Allure.Commons.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\log4net.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\MimeTypesMap.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit.Allure.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\log4net.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.pdb
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.xml
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CoreCompileInputs.cache
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CopyComplete
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.dll
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.pdb
+D:\Faruk\ObiletWebOtomasyon\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.api.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.core.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll.config
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.pdb
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Allure.Commons.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\log4net.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\MimeTypesMap.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\NUnit.Allure.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\log4net.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.pdb
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.xml
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csprojAssemblyReference.cache
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CopyComplete
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.dll
+C:\Users\Ömer Faruk\Desktop\Otomasyon_doküman\ObiletWebOtomasyon - Kopya\ObiletWebOtomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.pdb
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.api.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\nunit.engine.core.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll.config
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ObiletWebOtomasyon.pdb
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\netstandard.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.AppContext.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Collections.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ComponentModel.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Console.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Data.Common.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Globalization.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.Compression.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.Pipes.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Linq.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Http.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Ping.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Requests.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Security.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.Sockets.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ObjectModel.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Reflection.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Resources.Reader.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Resources.Writer.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Claims.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.Principal.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Security.SecureString.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Text.Encoding.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.Thread.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Threading.Timer.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.XPath.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Allure.Commons.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\log4net.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\MimeTypesMap.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\NUnit.Allure.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\log4net.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\nunit.framework.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\WebDriver.Support.xml
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\bin\Debug\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csproj.CopyComplete
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.dll
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.pdb
+C:\Users\Ömer Faruk\Desktop\obilet-web-otomasyon\ObiletWebOtomasyon\obj\Debug\ObiletWebOtomasyon.csprojAssemblyReference.cache

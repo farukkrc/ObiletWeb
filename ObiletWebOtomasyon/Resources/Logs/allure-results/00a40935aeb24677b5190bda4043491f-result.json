@@ -1,0 +1,104 @@
+{
+  "uuid": "f818a501-8502-478c-a55c-f610e9caee2a-tr-0-1040",
+  "historyId": "ObiletWebOtomasyon.TestSuites.HomePage.Login.LoginUyeOlTestCases.EmailParolaBosBirakilmasi(\"\",\"\")",
+  "fullName": "ObiletWebOtomasyon.TestSuites.HomePage.Login.LoginUyeOlTestCases.EmailParolaBosBirakilmasi(\"\",\"\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "OBL-URN-0005"
+    },
+    {
+      "name": "testClass",
+      "value": "ObiletWebOtomasyon.TestSuites.HomePage.Login.LoginUyeOlTestCases"
+    },
+    {
+      "name": "testMethod",
+      "value": "EmailParolaBosBirakilmasi"
+    },
+    {
+      "name": "package",
+      "value": "ObiletWebOtomasyon.TestSuites.HomePage.Login.LoginUyeOlTestCases"
+    },
+    {
+      "name": "tag",
+      "value": "SeleniumTestProject"
+    },
+    {
+      "name": "epic",
+      "value": "AllureEpic"
+    },
+    {
+      "name": "feature",
+      "value": "APITests"
+    },
+    {
+      "name": "parentSuite",
+      "value": "AllureParentSuite"
+    },
+    {
+      "name": "suite",
+      "value": "AllureSuite"
+    },
+    {
+      "name": "tag",
+      "value": "AllureTag"
+    },
+    {
+      "name": "tag",
+      "value": "Get"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    }
+  ],
+  "links": [],
+  "name": "EmailParolaBosBirakilmasi(\"\",\"\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EmailParolaBosBirakilmasi(\"\",\"\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "f83eb0c502eb484491bf82df8d17c6a9-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1608645902910,
+      "stop": 1608645911214
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": ""
+    },
+    {
+      "name": "Param #1",
+      "value": ""
+    }
+  ],
+  "start": 1608645902910,
+  "stop": 1608645911215
+}
